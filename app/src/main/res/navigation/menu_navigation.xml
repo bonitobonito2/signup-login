@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/menu_navigation"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.base.lays.lay1"
+        tools:layout="@layout/lay1"
+        android:label="lay1" />
+    <fragment
+        android:id="@+id/dashboard"
+        tools:layout="@layout/lay2"
+        android:name="com.example.base.lays.lay2"
+        android:label="lay2" />
+    <fragment
+        android:id="@+id/settings"
+        tools:layout="@layout/lay3"
+        android:name="com.example.base.lays.lay3"
+        android:label="lay3" />
+</navigation>

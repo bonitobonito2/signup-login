@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706189763207",
+    "project_id": "bona-81733",
+    "storage_bucket": "bona-81733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706189763207:android:cbc02f404609bc344e8e22",
+        "android_client_info": {
+          "package_name": "com.example.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706189763207-7mo8jmkfi0cq0vu10sd7hkleslo08mld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIrhJEvVNx5FEY4QBZ6fVPmsbcqhtrRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706189763207-7mo8jmkfi0cq0vu10sd7hkleslo08mld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
